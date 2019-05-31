@@ -31,3 +31,5 @@
    - ners_select_features.py 计算概率相关特征 ，结果存入/features
    - train.py 选择特征，并训练模型，结果存入/models
    - test.py  预测，得到结果并输入到，结果存入/results_final
+
+- 如果对大家有帮助，就帮忙点个:star:
