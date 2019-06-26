@@ -1,7 +1,7 @@
 ## sohu2019校园算法大赛
 > 队名：我想去北京。\
 > 名次 初赛6，决赛10。\
-> 这只是我做的lightgbm单模的代码，实体初赛分数大概至少56+。详细的方案介绍在ppt里。\
+> 这是我做的lightgbm单模的代码，实体初赛分数大概至少56+。详细的方案介绍在ppt里。\
 > [比赛网址](https://biendata.com/competition/sohu2019/)\
 > 如果对大家有帮助，帮忙点:star::star:\
 > 队友github：tianjialai、[zs](https://github.com/Zessay)、[lhx](https://github.com/hogking)
